@@ -1,0 +1,16 @@
+{
+  "name": "pgstatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/use.js"
+  },
+  "author": "Subhendu Dash",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.11.1",
+    "typescript": "^5.0.4"
+  }
+}
